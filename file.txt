@@ -1,3 +1,7 @@
 HELLO I AM A FILE.
 
 This is the second line of my file.
+
+third line
+
+fourth line
